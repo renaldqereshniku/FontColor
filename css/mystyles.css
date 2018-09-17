@@ -1,0 +1,292 @@
+/* INDEX *********************************************************************/
+
+.index-wrapper {
+    margin: 0 auto;
+    width: 50%;
+    max-width: 700px;
+    margin-top: 120px;
+}
+
+.index {
+    background-color: rgb(44, 44, 44);
+}
+
+.index h1 {
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(230, 230, 230);
+    font-size: 58px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.ampersand {
+    color: rgb(146, 13, 13);
+}
+
+.color-text {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 14px;
+}
+
+.index a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    color: rgb(235, 235, 235);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.index-links {
+    text-align: center;
+}
+
+
+/* ENERGETIC *********************************************************************/
+
+.energetic-wrapper {
+    margin: 0 auto;
+    width: 70%;
+    max-width: 700px;
+    margin-top: 100px;
+}
+
+.energetic {
+    background: 
+        linear-gradient(90deg, rgb(119, 36, 15) 0%, #FF5126 100%);
+}
+
+.energetic h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 48px;
+    text-transform: uppercase;
+    letter-spacing: 18px;
+    color: rgb(225, 232, 236);
+    text-align: center;
+}
+
+.energetic h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #26A7FF;
+    font-size: 28px;
+    font-weight: 200;
+    letter-spacing: 1.2px;
+    text-align: center;
+}
+
+.energetic p, a {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(20, 8, 5);
+}
+
+.energetic p {
+    text-align: justify;
+    letter-spacing: 2px;
+}
+
+.energetic a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.energetic-links {
+    text-align: center;
+}
+
+
+/* FUN *********************************************************************/
+
+.fun-wrapper {
+    margin: 0 auto;
+    width: 70%;
+    max-width: 700px;
+    margin-top: 70px;
+}
+
+.fun {
+    background: linear-gradient(90deg, #ec7aa7 0%, rgb(110, 189, 223) 100%);
+}
+
+.fun h1 {
+    font-family: 'Averia Sans Libre', cursive;
+    color: #ffc410;
+    font-size: 92px;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.fun h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #271e03;
+    font-size: 24px;
+    font-weight: lighter;
+    letter-spacing: 12px;
+}
+
+.fun p {
+    font-family: 'Open Sans', sans-serif;
+    color: #f1efe8;
+    font-size: 16px;
+    font-weight: thin;
+    letter-spacing: 3px;
+}
+
+.fun a {
+    font-family: 'Open Sans', sans-serif;
+    color: #271e03;
+    font-size: 16px;
+    font-weight: thin;
+    letter-spacing: 3px;
+    text-transform: lowercase;
+    text-decoration: none;
+}
+
+.fun-links {
+    text-align: right;
+}
+
+
+/* CORPORATE *********************************************************************/
+
+.corporate-wrapper {
+    margin: 0 auto;
+    width: 60%;
+    max-width: 700px;
+    margin-top: 120px;
+}
+
+.corporate h1 {
+    font-family: 'Noto Serif KR', sans-serif;
+    color: #1d2b69;
+    font-size: 68px;
+    letter-spacing: 16px;
+    text-align: center;
+}
+
+.corporate h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #671e8b;
+}
+
+.corporate p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.corporate a {
+    font-family: 'Roboto', sans-serif;
+    color: #097AFF;
+}
+
+
+/* RELAXED *********************************************************************/
+
+.relaxed-wrapper {
+    margin: 0 auto;
+    width: 40%;
+    max-width: 700px;
+    margin-top: 70px;
+}
+
+.relaxed {
+    background-color: rgba(40, 85, 40, 0.712);
+}
+
+.relaxed h1 {
+    font-family: 'Special Elite', cursive;
+    color: rgb(34, 36, 34);
+    font-size: 48px;
+    font-weight: 100;
+    letter-spacing: 6px;
+    text-transform: lowercase;
+}
+
+.relaxed h2, p, a {
+    font-family: 'Merriweather', serif;
+}
+
+.relaxed h2 {
+    color: rgb(208, 214, 208);
+    font-size: 24px;
+    font-weight: 100;
+    letter-spacing: 4px;
+}
+
+.relaxed p {
+    color: rgb(15, 15, 15);
+    font-weight: 200;
+    letter-spacing: 1.6px;
+}
+
+.relaxed a {
+    text-transform: lowercase;
+    text-decoration: none;
+}
+
+
+/* SOPHISTICATED *********************************************************************/
+
+.sophisticated-wrapper {
+    margin: 0 auto;
+    width: 50%;
+    max-width: 700px;
+    margin-top: 70px;
+}
+
+.sophisticated {
+    background: linear-gradient(90deg, rgb(207, 207, 207) 0%, rgb(255, 255, 255) 100%);
+}
+
+.sophisticated h1 {
+    font-family: 'Oxygen Mono', monospace;
+    font-size: 42px;
+    font-weight: lighter;
+    letter-spacing: 38px;
+    line-height: 72px;
+    text-align: justify;
+    color: rgb(11, 87, 27);
+}
+
+.header-s, .header-dash {
+    color: rgb(119, 12, 24);
+}
+
+.sophisticated h2 {
+    font-size: 20px;
+    font-weight: lighter;
+    letter-spacing: 4px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.color-strategy {
+    color: #ad4116;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.split-complementary {
+    color: rgb(11, 102, 31);
+}
+
+.sophisticated h2, p, a {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.sophisticated p {
+    font-size: 16px;
+    color: rgb(15, 15, 15);
+    letter-spacing: 1.1px;
+    text-align: justify;
+}
+
+.sophisticated a {
+    color: rgb(119, 12, 24);
+    text-decoration: none;
+}
+
+.sophisticated-links {
+    text-align: right;
+}
