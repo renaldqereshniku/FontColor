@@ -2,9 +2,10 @@
 
 .index-wrapper {
     margin: 0 auto;
-    width: 50%;
+    width: 90%;
+    height: 100vp;
     max-width: 700px;
-    margin-top: 120px;
+    margin-top: 240px;
 }
 
 .index {
@@ -26,7 +27,12 @@
 
 .color-text {
     font-family: 'Raleway', sans-serif;
-    letter-spacing: 14px;
+    letter-spacing: 18px;
+}
+
+.index-links {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .index a {
@@ -35,13 +41,7 @@
     font-weight: lighter;
     color: rgb(235, 235, 235);
     text-decoration: none;
-    text-transform: uppercase;
 }
-
-.index-links {
-    text-align: center;
-}
-
 
 /* ENERGETIC *********************************************************************/
 
@@ -53,8 +53,7 @@
 }
 
 .energetic {
-    background: 
-        linear-gradient(90deg, rgb(119, 36, 15) 0%, #FF5126 100%);
+    background: white;
 }
 
 .energetic h1 {
@@ -62,15 +61,15 @@
     font-size: 48px;
     text-transform: uppercase;
     letter-spacing: 18px;
-    color: rgb(225, 232, 236);
+    color: rgb(189, 23, 23);
     text-align: center;
 }
 
 .energetic h2 {
     font-family: 'Open Sans', sans-serif;
     color: #26A7FF;
-    font-size: 28px;
-    font-weight: 200;
+    font-size: 44px;
+    font-weight: 500;
     letter-spacing: 1.2px;
     text-align: center;
 }
@@ -94,7 +93,6 @@
 .energetic-links {
     text-align: center;
 }
-
 
 /* FUN *********************************************************************/
 
@@ -148,7 +146,6 @@
     text-align: right;
 }
 
-
 /* CORPORATE *********************************************************************/
 
 .corporate-wrapper {
@@ -179,7 +176,6 @@
     font-family: 'Roboto', sans-serif;
     color: #097AFF;
 }
-
 
 /* RELAXED *********************************************************************/
 
@@ -224,7 +220,6 @@
     text-transform: lowercase;
     text-decoration: none;
 }
-
 
 /* SOPHISTICATED *********************************************************************/
 
