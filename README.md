@@ -1,3 +1,1 @@
-# FontColor
-
-it starts with typography
+It starts with typography
