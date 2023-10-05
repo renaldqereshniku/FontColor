@@ -1,1 +1,1 @@
-It starts with typography
+Lorem ipsum
